@@ -1,0 +1,6 @@
+{
+  "name": "Secret Message Portal",
+  "description": "An elegant, secure, and highly animated secret portal to send anonymous whispers, confessions, and feedback directly to the host administrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
